@@ -5,7 +5,7 @@
         </div>
         <div class="row">
             <div class="col-md-12" style="padding: 0px;margin-top: 10px;margin-bottom: 10px;">
-                <h1 style="text-align: center;color: rgb(255,255,255);font-family: Inter, sans-serif;font-weight: bold;margin: 0px;">Vega X</h1>
+                <h1 style="text-align: center;color: rgb(255,255,255);font-family: Inter, sans-serif;font-weight: bold;margin: 0px;">Hunter Z</h1>
                 <p style="text-align: center;font-family: Inter, sans-serif;color: rgb(255,255,255);margin: 0px;">The Best Executor, Instant Updates, And More</p>
             </div>
             <div class="col-md-12 d-flex d-lg-flex justify-content-center justify-content-lg-center">
