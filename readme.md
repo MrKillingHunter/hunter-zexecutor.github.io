@@ -7,12 +7,12 @@
     <meta name="twitter:description" content="Hunter Z Is The Best Level 7 Executor For Roblox. It is the easiest exploit to use, and the update speed is straight up INSANE. Download today by clicking here!">
     <meta property="og:image" content="https://zindot.in/-/zindot.in/images/logo.png">
     <meta property="og:type" content="website">
-    <meta name="twitter:image" content="https://zindot.in/-/zindot.in/images/logo.png">
-    <meta name="twitter:title" content="Hunter Z -  The Best Executor">
+    <meta name="twitter:image" content="[https://zindot.in/-/zindot.in/images/logo.png](https://zindot.in/-/zindot.in/images/logo.png)">
+    <meta name="twitter:title" content="Hunter Z - The Best Executor">
     <link rel="icon" type="image/png" sizes="627x603" href="https://zindot.in/-/zindot.in/images/logo.png">
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/Hunter-Zexecutor/hunter-zexecutor.github.io/main/bootstrap.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:100,200,300,400,500,600,700,800,900&amp;display=swap">
-    <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/Hunter-Zexecutor/hunter-zexecutor.github.io/main/fontawesome-all.min.css">
     <style>
         html, body {
             height: 100%;
@@ -33,7 +33,7 @@
 <body class="d-lg-flex justify-content-lg-center align-items-lg-center" style="color: rgb(10,10,10);background: rgb(10,10,10);border-color: rgb(0,0,0);">
     <div class="container" style="position: fixed;left: 50%;top: 50%;transform: translate(-50%,-15%);width: 100%;max-width: 100%;height: 100%;max-height: 100%;padding: 0PX;">
         <div class="row">
-            <div class="col-md-12 d-flex d-lg-flex justify-content-center justify-content-lg-center"><img src="assets/img/V_logo_white.png" style="width: 100px;height: 100px;padding: px;"></div>
+            <div class="col-md-12 d-flex d-lg-flex justify-content-center justify-content-lg-center"><img src="https://zindot.in/-/zindot.in/images/logo.png" style="width: 100px;height: 100px;padding: px;"></div>
         </div>
         <div class="row">
             <div class="col-md-12" style="padding: 0px;margin-top: 10px;margin-bottom: 10px;">
